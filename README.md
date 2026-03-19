@@ -1,0 +1,3 @@
+This project documents my hands-on incident response and vulnerability remediation work on Google Cloud Platform, completed as the final assessment of the Google Cloud Cybersecurity Certificate. 
+Using Google Cloud Security Command Center, I investigated an active data breach at a simulated enterprise environment, identified critical misconfigurations across compute, storage, and network resources, and systematically remediated them to restore compliance with PCI DSS 3.2.1. 
+Tasks covered the full incident response lifecycle — from threat analysis and containment, through infrastructure recovery, firewall hardening, and compliance verification.
